@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Komentar untuk HealthCare	</title>
+	<atom:link href="https://lorensialrswti.github.io/healthcare/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lorensialrswti.github.io/healthcare</link>
+	<description>Jangan abaikan kesehatan diri</description>
+	<lastBuildDate>Fri, 15 Dec 2023 07:08:24 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		Komentar di Apa itu penyakit Maag? Gejala, Penyebab dan Pengobatan oleh ASDL_Healthcare		</title>
+		<link>https://lorensialrswti.github.io/healthcare/2023/12/09/apa-itu-penyakit-maag-gejala-penyebab-dan-pengobatan/#comment-2</link>
+
+		<dc:creator><![CDATA[ASDL_Healthcare]]></dc:creator>
+		<pubDate>Sat, 09 Dec 2023 13:57:44 +0000</pubDate>
+		<guid isPermaLink="false">https://lorensialrswti.github.io/healthcare/?p=33#comment-2</guid>
+
+					<description><![CDATA[Hai sobat Health Care]]></description>
+			<content:encoded><![CDATA[<p>Hai sobat Health Care</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
